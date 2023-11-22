@@ -1,4 +1,4 @@
-# AI Developers & Entrepreneurs Meetup
+# [AI Developers & Entrepreneurs Meetup](https://www.meetup.com/aide-hub/)
 
 Hello! 👋🏽
 
