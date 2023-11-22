@@ -1,5 +1,8 @@
 # [AI Developers & Entrepreneurs Meetup](https://www.meetup.com/aide-hub/)
 
+![logo](https://secure.meetupstatic.com/photos/event/d/3/8/9/clean_517374153.webp)
+
+
 Hello! 👋🏽
 
 Welcome to the AI Developers & Entpreneurs Hub - a community based in the Greater New York area and the surrounding Tri-State region, and part of the larger [Global AI Community](https://globalai.community/) with over 35,000 members worldwide.
@@ -13,8 +16,6 @@ The [Global AI Community](https://globalai.community/about/) empowers developers
 The [AIDE-Hub](https://meetup.com/aide-hub) is a chapter of the Global AI Community based in the Greater New York region. This primarily covers the Tri-state region (New York, New Jersey, Connecticut) but also extends to communities in Pennsylvania and Massachussets that are in the same timezone and within reasonable commute distance for events.
 
 We work closely with our Microsoft partners to take advantage of resources like venues and sponsorship when possible. However, we are techology and cloud agnostic and welcome speakers and talks on all topics related to AI, Apps and Automation. 
-
-![logo](https://secure.meetupstatic.com/photos/event/d/3/8/9/clean_517374153.webp)
 
 
 ## Mission Statement
